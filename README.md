@@ -1,5 +1,4 @@
-# -COVID-19-Dataset-Analysis-
-# COVID-19 Patient Data Analysis
+# COVID 19 Dataset Analysis
 
 This project performs Exploratory Data Analysis (EDA) on a COVID-19 patient-level dataset.
 
